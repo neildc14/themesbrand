@@ -1,0 +1,19 @@
+{
+  "name": "themesbrand",
+  "version": "1.0.0",
+  "description": "practice-sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neil dela cruz",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
